@@ -1,0 +1,6 @@
+Commands:
+  Vanish:
+    Name: "vanish"
+    Description: "Be invisible"
+    Permission: "simplevanish.command.vanish"
+    Aliases: [ "v", "invisible" ]

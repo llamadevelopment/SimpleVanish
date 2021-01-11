@@ -1,0 +1,10 @@
+prefix: "&8» &gVanish &8| &7"
+permission.insufficient: "&cYou have insufficient permissions to execute this command."
+
+vanish.on: "&aYou successfully enabled vanish."
+vanish.off: "&aYou successfully disabled vanish."
+vanish.on.other: "&aYou successfully enabled vanish for &e[0]&a."
+vanish.off.other: "&aYou successfully disabled vanish for &e[0]&a."
+player.offline: "&cThis player is not online."
+
+usage.vanish: "&7/[0] <optional: Player>"
